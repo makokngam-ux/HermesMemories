@@ -1,0 +1,1 @@
+ผู้ใช้ต้องการให้ทุกครั้งที่อัปเดต Memories ให้ commit และ push ข้อมูล Memories ไปยัง repository https://github.com/makokngam-ux/HermesMemories.git ด้วย
